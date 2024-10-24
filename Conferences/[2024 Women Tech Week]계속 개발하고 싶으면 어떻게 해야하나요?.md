@@ -1,6 +1,5 @@
 # 2024 Women Tech Week
 노션 페이지 : https://oesiu24.notion.site/2024-Women-Tech-Week-127ec73d8f6a80b7aac9fe4a7b254693?pvs=4
-
 주니어 - 계속 개발하고 싶으면 어떻게 해야하나요?
 일시 : 2024.10.22(화) 19:00 ~ 20:30
 
